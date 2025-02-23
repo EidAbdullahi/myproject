@@ -1,9 +1,9 @@
 <<<<<<< HEAD
 # Travelo - A Travel Agency Website
-<!-- 
+
 ![Travelo Logo](./assets/images/travelo-logo.svg) -->
 
-<!-- Welcome to  - your one-stop destination for all your travel needs! This is the GitHub repository for the Travelo travel agency website, where you can explore and collaborate on building an amazing platform for travelers.
+ Welcome to  - your one-stop destination for all your travel needs! This is the GitHub repository for the Travelo travel agency website, where you can explore and collaborate on building an amazing platform for travelers.
 
 ## Table of Contents
 
@@ -41,20 +41,11 @@ Travelo aims to provide a seamless experience for travelers, and some of the key
 
 To set up Travelo on your local machine for development or testing purposes, follow these steps: -->
 
-<!-- 1. Clone the repository to your local machine using the following command:
+1. Clone the repository to your local machine using the following command:
    ```
- 
-   ```
-
-2. Navigate to the project directory:
-   ```
-   cd travelo
+    https://github.com/EidAbdullahi/myproject.git
    ```
 
-3. Install the required dependencies:
-   ```
-   npm install
-   ```
 
 4. Create a configuration file (e.g., `config.js`) to store environment-specific settings. You can use `config.js.example` as a template.
 
@@ -76,5 +67,5 @@ We hope you enjoy your experience with Travelo! If you encounter any issues or h
 =======
 # Fly-baraka
 fLYBARAKA is open-source website based on travel agency developed with the help of HTML, CSS and JavaScript.
->>>>>>> 56d50b8 (Initial commit)
-# flybaraka -->
+ 56d50b8 (Initial commit)
+# flybaraka
