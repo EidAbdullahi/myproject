@@ -1,9 +1,9 @@
 <<<<<<< HEAD
 # Travelo - A Travel Agency Website
+<!-- 
+![Travelo Logo](./assets/images/travelo-logo.svg) -->
 
-![Travelo Logo](./assets/images/travelo-logo.svg)
-
-Welcome to  - your one-stop destination for all your travel needs! This is the GitHub repository for the Travelo travel agency website, where you can explore and collaborate on building an amazing platform for travelers.
+<!-- Welcome to  - your one-stop destination for all your travel needs! This is the GitHub repository for the Travelo travel agency website, where you can explore and collaborate on building an amazing platform for travelers.
 
 ## Table of Contents
 
@@ -39,11 +39,11 @@ Travelo aims to provide a seamless experience for travelers, and some of the key
 
 ## Installation
 
-To set up Travelo on your local machine for development or testing purposes, follow these steps:
+To set up Travelo on your local machine for development or testing purposes, follow these steps: -->
 
-1. Clone the repository to your local machine using the following command:
+<!-- 1. Clone the repository to your local machine using the following command:
    ```
-   git clone https://github.com/Mangesh2704/Travelo-A-Travel-Agency-Website.git
+ 
    ```
 
 2. Navigate to the project directory:
@@ -61,30 +61,10 @@ To set up Travelo on your local machine for development or testing purposes, fol
 5. Set up the required databases and API keys for services like flight booking and hotel reservations.
 
 
-## Contributors
 
-Our project's success is a testament to the power of teamwork and collaboration. Each member of our team brought unique skills, knowledge, and enthusiasm to the table, contributing to the project's development in diverse ways.
-Here are our group members:
 
-1. Mangesh Pangam
 
-2. Rakshita Sarap
 
-3. Saish Rane
-
-4. Shruti Parade
-
-5. Ajay Pandey
-
-6. Saket Jha
-
-7. Khushal Jogi
-
-8. Piyush Mane
-
-9. Vedang Nijap
-
-A heartfelt thank you to all the contributors who made this project possible; your dedication and expertise are truly appreciated!
 
 ## Terms of Use
 
@@ -97,4 +77,4 @@ We hope you enjoy your experience with Travelo! If you encounter any issues or h
 # Fly-baraka
 fLYBARAKA is open-source website based on travel agency developed with the help of HTML, CSS and JavaScript.
 >>>>>>> 56d50b8 (Initial commit)
-# flybaraka
+# flybaraka -->
