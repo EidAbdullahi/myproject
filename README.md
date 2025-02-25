@@ -1,9 +1,9 @@
 <<<<<<< HEAD
-# Travelo - A Travel Agency Website
+# fly-baraka  - A Travel Agency Website
 
-![Travelo Logo](./assets/images/travelo-logo-white.png) -->
+![fly-baraka  Logo](./assets/images/fly-baraka -logo-white.png) -->
 
- Welcome to  - your one-stop destination for all your travel needs! This is the GitHub repository for the Travelo travel agency website, where you can explore and collaborate on building an amazing platform for travelers.
+ Welcome to  - your one-stop destination for all your travel needs! This is the GitHub repository for the fly-baraka  travel agency website, where you can explore and collaborate on building an amazing platform for travelers.
 
 ## Table of Contents
 
@@ -15,31 +15,31 @@
 
 ## Introduction
 
-Travelo is a web application designed to offer a user-friendly and convenient way for travelers to explore destinations, find the best deals on flights, hotels, and tours, and easily plan their dream vacations. The platform provides comprehensive information about various locations, including tourist attractions, local culture, and travel tips.
+fly baraka is a web application designed to offer a user-friendly and convenient way for travelers to explore destinations, find the best deals on flights, hotels, and tours, and easily plan their dream vacations. The platform provides comprehensive information about various locations, including tourist attractions, local culture, and travel tips.
 
-This GitHub repository serves as a collaborative space for developers and designers to contribute to the project, share ideas, report issues, and work together to make Travelo the best travel agency website on the internet.
+This GitHub repository serves as a collaborative space for developers and designers to contribute to the project, share ideas, report issues, and work together to make fly-baraka the best travel agency website on the internet.
 
 ## Features
 
-Travelo aims to provide a seamless experience for travelers, and some of the key features include:
+fly-baraka  aims to provide a seamless experience for travelers, and some of the key features include:
 
-- **Responsiveness**: Travelo offers a fully responsive design, ensuring seamless user experiences across all devices.
+- **Responsiveness**: fly-baraka  offers a fully responsive design, ensuring seamless user experiences across all devices.
 
-- **User-Friendly GUI**: Travelo integrates with flight booking APIs to enable users to find and book the best flight options for their trips.
+- **User-Friendly GUI**: fly-baraka  integrates with flight booking APIs to enable users to find and book the best flight options for their trips.
 
-- **Scheduled Booking**: Users can conveniently schedule bookings for flights, hotels, and tours in advance through Travelo.
+- **Scheduled Booking**: Users can conveniently schedule bookings for flights, hotels, and tours in advance through fly-baraka .
 
-- **Exciting Packages**: Travelo presents a collection of exciting and curated tour packages, promising memorable travel experiences.
+- **Exciting Packages**: fly-baraka  presents a collection of exciting and curated tour packages, promising memorable travel experiences.
 
-- **Variety of Options**: Travelo offers a wide range of travel options, from destinations to hotels and tour packages, catering to diverse preferences.
+- **Variety of Options**: fly-baraka  offers a wide range of travel options, from destinations to hotels and tour packages, catering to diverse preferences.
 
-- **Search Menu**: A comprehensive search menu allows users to quickly find their desired destinations, accommodations, and activities on Travelo.
+- **Search Menu**: A comprehensive search menu allows users to quickly find their desired destinations, accommodations, and activities on fly-baraka .
 
-- **Package Ratings**: Travelo allows users to check reviews and ratings for destinations, hotels, and tours.
+- **Package Ratings**: fly-baraka  allows users to check reviews and ratings for destinations, hotels, and tours.
 
 ## Installation
 
-To set up Travelo on your local machine for development or testing purposes, follow these steps: -->
+To set up fly-baraka  on your local machine for development or testing purposes, follow these steps: -->
 
 1. Clone the repository to your local machine using the following command:
    ```
@@ -59,11 +59,11 @@ To set up Travelo on your local machine for development or testing purposes, fol
 
 ## Terms of Use
 
-Travelo is open-source website based on travel agency developed with the help of HTML, CSS and JavaScript.
+fly-baraka  is open-source website based on travel agency developed with the help of HTML, CSS and JavaScript.
 You can edit and modify!
 
 
-We hope you enjoy your experience with Travelo! If you encounter any issues or have suggestions, please feel free to raise them in the Issues section of this repository. Happy travelling! 🌍✈️
+We hope you enjoy your experience with fly-baraka ! If you encounter any issues or have suggestions, please feel free to raise them in the Issues section of this repository. Happy travelling! 🌍✈️
 =======
 # Fly-baraka
 fLYBARAKA is open-source website based on travel agency developed with the help of HTML, CSS and JavaScript.
